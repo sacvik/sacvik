@@ -15,10 +15,7 @@
 - **Cloud & DevOps:** AWS, Docker, Kubernetet
 - **Databases:** MySQL, IBM DB2
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sacvik&show_icons=true&theme=radical)  
-
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vermasachinds/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vermasachinds/])
 
 💡 _"Code. Learn. Innovate."_  
