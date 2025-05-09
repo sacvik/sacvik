@@ -10,11 +10,11 @@
 - ⚡ Fun fact: **Data is fact, interpretation is subjective!**  
 
 ## 🛠️ Tech Stack  
-- **NLP:** Text Preprocessing Tools, Embeddings & Vectorization, Databases for NLP(Elasticsearch, PostgreSQL), Core NLP Libraries(Gensim, TextBlob, Stanford NLP), Transformers & Deep Learning(Hugging Face, LangChain)
+- **NLP:** Text Preprocessing Tools, Embeddings & Vectorization, Core NLP Libraries(Gensim, TextBlob, Stanford NLP), Transformers & Deep Learning(Hugging Face, LangChain)
 - **Languages:** Python, R, SQL, PL/SQL, HiveQL
 - **Frameworks & Libraries:** Pyspark, tensorflow, keras
 - **Cloud & DevOps:** AWS, Docker, Kubernetet, MLflow, Airflow, FastAPI, Flask, Django
-- **Databases:** MySQL, IBM DB2
+- **Databases:** MySQL, IBM DB2, Elasticsearch, PostgreSQL
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vermasachinds/])
