@@ -10,9 +10,10 @@
 - ⚡ Fun fact: **Data is fact, interpretation is subjective!**  
 
 ## 🛠️ Tech Stack  
+- **NLP:** Text Preprocessing Tools, Embeddings & Vectorization, Databases for NLP(Elasticsearch, PostgreSQL), Core NLP Libraries(Gensim, TextBlob, Stanford NLP), Transformers & Deep Learning(Hugging Face, LangChain)
 - **Languages:** Python, R, SQL, PL/SQL, HiveQL
 - **Frameworks & Libraries:** Pyspark, tensorflow, keras
-- **Cloud & DevOps:** AWS, Docker, Kubernetet
+- **Cloud & DevOps:** AWS, Docker, Kubernetet, MLflow, Airflow, FastAPI, Flask, Django
 - **Databases:** MySQL, IBM DB2
 
 ## 🔗 Connect with Me  
