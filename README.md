@@ -6,7 +6,7 @@
 - 🌱 Currently learning **Applied GEN AI**  
 - 💬 Ask me about **Data Science, Statistics, GEN AI, LLM, Transformers, Time Series**  
 - 📫 How to reach me: **[vermasachin723@yahoo.com]**  
-- 🎯 Goals for 2025: **[Building a tool using LLM API]**  
+- 🎯 Goals for 2025: **[Building and deployinng a working solution using LLM]**  
 - ⚡ Fun fact: **Data is fact, interpretation is subjective!**  
 
 ## 🛠️ Tech Stack  
